@@ -2,7 +2,7 @@
 
 /**
 * free_buffers - frees buffers
-* @buf: buffer to be freed
+* @buf: buffer to be freed,free buffer
 *
 * Return: no return
 */
